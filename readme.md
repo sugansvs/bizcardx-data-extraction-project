@@ -100,7 +100,7 @@ streamlit run app.py
 
 ## 🎥 Demo Video
 
-[Watch Demo]([bizcardx-business-card-ocr-app.mp4](https://drive.google.com/drive/folders/18jGdNZrK4glWeL5IU-DsicYbo0LIW4Uh))
+[Watch Demo](https://drive.google.com/drive/folders/18jGdNZrK4glWeL5IU-DsicYbo0LIW4Uh)
 
 ---
 
